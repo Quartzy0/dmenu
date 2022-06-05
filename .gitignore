@@ -38,8 +38,6 @@
 *.x86_64
 *.hex
 dmenu
-dmenu_path
-dmenu_run
 stest
 
 # Debug files
